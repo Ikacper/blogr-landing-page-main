@@ -162,6 +162,7 @@ ul > li:last-child {
 .nav__button1:hover,
 .nav__button2:hover {
   cursor: pointer;
+  color: #fff;
   background-color: hsl(355, 100%, 74%);
   background-image: none;
 }
